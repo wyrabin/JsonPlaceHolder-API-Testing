@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Testing POST comments JsonPlaceHolder
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 5.662 s <<< FAILURE! - in Testing POST comments JsonPlaceHolder
+POST comments with invalid json(Testing POST comments JsonPlaceHolder)  Time elapsed: 1.136 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <500>.
+
+
+POST comments with unrequired object at json(Testing POST comments JsonPlaceHolder)  Time elapsed: 1.039 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+POST comments with valid parameter id(Testing POST comments JsonPlaceHolder)  Time elapsed: 1.159 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <500>.
+
+
+POST comments with blank json(Testing POST comments JsonPlaceHolder)  Time elapsed: 1.08 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+

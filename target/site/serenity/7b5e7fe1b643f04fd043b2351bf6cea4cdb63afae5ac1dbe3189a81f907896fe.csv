@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing POST comments JsonPlaceHolder","POST comments with valid json","SUCCESS","2023-01-20T18:55:37.919+07:00[Asia/Bangkok]","0.0","1.21"
+"Testing POST comments JsonPlaceHolder","POST comments with invalid json","FAILURE","2023-01-20T18:55:39.14+07:00[Asia/Bangkok]","0.0","1.14"
+"Testing POST comments JsonPlaceHolder","POST comments with unrequired object at json","FAILURE","2023-01-20T18:55:40.292+07:00[Asia/Bangkok]","0.0","1.03"
+"Testing POST comments JsonPlaceHolder","POST comments with valid parameter id","FAILURE","2023-01-20T18:55:41.333+07:00[Asia/Bangkok]","0.0","1.16"
+"Testing POST comments JsonPlaceHolder","POST comments with blank json","FAILURE","2023-01-20T18:55:42.505+07:00[Asia/Bangkok]","0.0","1.07"

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Testing GET todos JsonPlaceHolder API
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.672 s <<< FAILURE! - in Testing GET todos JsonPlaceHolder API
+Get todos with invalid parameter id as string should failed then return 400 response code(Testing GET todos JsonPlaceHolder API)  Time elapsed: 0.896 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

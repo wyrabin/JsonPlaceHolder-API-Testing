@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: Put update albums
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 6.143 s <<< FAILURE! - in Put update albums
+Put update album with invalid parameter request(Put update albums)  Time elapsed: 1.12 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Put update album with blank body(Put update albums)  Time elapsed: 1.061 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Put update album with extra body json(Put update albums)  Time elapsed: 1.069 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

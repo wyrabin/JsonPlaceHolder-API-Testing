@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Create Album","Post create album with valid json","SUCCESS","2023-01-20T18:55:18.029+07:00[Asia/Bangkok]","0.0","1.1"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete album","Delete users with valid id","SUCCESS","2023-01-20T18:55:09.545+07:00[Asia/Bangkok]","0.0","4.99"
+"Testing GET","Get album with valid parameter","SUCCESS","2023-01-20T18:55:15.656+07:00[Asia/Bangkok]","0.0","1.44"
+"Testing Create Album","Post create album with valid json","SUCCESS","2023-01-20T18:55:18.029+07:00[Asia/Bangkok]","0.0","1.1"
+"Put update albums","Put update album with valid parameter","SUCCESS","2023-01-20T18:55:23.603+07:00[Asia/Bangkok]","0.0","1.53"
+"Put update albums","Put update album with unregister body json","SUCCESS","2023-01-20T18:55:28.401+07:00[Asia/Bangkok]","0.0","1.33"

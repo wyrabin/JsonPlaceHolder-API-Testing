@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Delete Todos JsonPlaceHolder API","Delete todos with valid id should success then return 200 response code","SUCCESS","2023-01-20T18:56:05.608+07:00[Asia/Bangkok]","0.0","1.05"
+"Testing Delete Todos JsonPlaceHolder API","Delete todos with valid id but out of range should failed then return 404 response code","FAILURE","2023-01-20T18:56:06.66+07:00[Asia/Bangkok]","0.0","1.02"
+"Testing Delete Todos JsonPlaceHolder API","DELETE todos with invalid id should failed then return 400 response code","FAILURE","2023-01-20T18:56:07.692+07:00[Asia/Bangkok]","0.0","1.1"

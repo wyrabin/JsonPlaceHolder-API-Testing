@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Put Posts REST API","API PUT with blank body","FAILURE","2023-01-20T18:56:01.461+07:00[Asia/Bangkok]","0.0","1.14"
+"Testing Put Posts REST API","API PUT with invalid type data body","FAILURE","2023-01-20T18:56:02.607+07:00[Asia/Bangkok]","0.0","1.07"
+"Testing Put Posts REST API","API PUT with extra body","FAILURE","2023-01-20T18:56:03.684+07:00[Asia/Bangkok]","0.0","0.83"
+"Testing Put Posts REST API","API PUT with less category body","FAILURE","2023-01-20T18:56:04.515+07:00[Asia/Bangkok]","0.0","1.09"

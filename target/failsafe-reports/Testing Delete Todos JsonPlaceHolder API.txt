@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Testing Delete Todos JsonPlaceHolder API
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.186 s <<< FAILURE! - in Testing Delete Todos JsonPlaceHolder API
+Delete todos with valid id but out of range should failed then return 404 response code(Testing Delete Todos JsonPlaceHolder API)  Time elapsed: 1.018 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <200>.
+
+
+DELETE todos with invalid id should failed then return 400 response code(Testing Delete Todos JsonPlaceHolder API)  Time elapsed: 1.107 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

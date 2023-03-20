@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Testing Create Album
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 5.566 s <<< FAILURE! - in Testing Create Album
+Post create album with invalid json(Testing Create Album)  Time elapsed: 1.111 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <201>.
+
+
+Post create album with same body json(Testing Create Album)  Time elapsed: 1.147 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <201>.
+
+
+Post create album with blank body json(Testing Create Album)  Time elapsed: 1.073 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <201>.
+
+
+Post create album with extra body json(Testing Create Album)  Time elapsed: 1.107 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <201>.
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serenity-rest-starter" />
+        <module name="GroupProject-QE8-Team4" />
+        <module name="ALTA-Serenity-REST-QE8-MuhammadFikri" />
+        <module name="GroupProject-Team4-QE8" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

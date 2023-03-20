@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Put update albums","Put update album with valid parameter","SUCCESS","2023-01-20T18:55:23.603+07:00[Asia/Bangkok]","0.0","1.53"
+"Put update albums","Put update album with unregister body json","SUCCESS","2023-01-20T18:55:28.401+07:00[Asia/Bangkok]","0.0","1.33"

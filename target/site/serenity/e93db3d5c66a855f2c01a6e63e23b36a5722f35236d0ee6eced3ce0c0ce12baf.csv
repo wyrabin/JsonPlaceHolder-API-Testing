@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Delete Posts REST API","API DELETE posts with valid parameter","FAILURE","2023-01-20T18:55:48.838+07:00[Asia/Bangkok]","0.0","1.07"
+"Testing Get Posts REST API","API GET without id","SUCCESS","2023-01-20T18:55:50.985+07:00[Asia/Bangkok]","0.0","1.15"
+"Testing Get Posts REST API","API GET with valid id","SUCCESS","2023-01-20T18:55:52.144+07:00[Asia/Bangkok]","0.0","0.95"
+"Testing Get Posts REST API","API GET with invalid id","SUCCESS","2023-01-20T18:55:53.103+07:00[Asia/Bangkok]","0.0","1.1"
+"Testing Post Posts REST API","API POST new posts with valid parameter","SUCCESS","2023-01-20T18:55:55.04+07:00[Asia/Bangkok]","0.0","1.09"
+"Testing Put Posts REST API","API PUT with valid parameter","SUCCESS","2023-01-20T18:56:00.317+07:00[Asia/Bangkok]","0.0","1.14"

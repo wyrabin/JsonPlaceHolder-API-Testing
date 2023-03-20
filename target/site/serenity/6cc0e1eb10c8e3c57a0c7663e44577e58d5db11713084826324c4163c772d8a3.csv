@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Delete Posts REST API","API DELETE posts with invalid parameter","FAILURE","2023-01-20T18:55:49.912+07:00[Asia/Bangkok]","0.0","1.07"

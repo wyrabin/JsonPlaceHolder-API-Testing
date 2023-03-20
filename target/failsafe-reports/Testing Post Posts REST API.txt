@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Testing Post Posts REST API
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 5.271 s <<< FAILURE! - in Testing Post Posts REST API
+API POST new posts with blank parameter(Testing Post Posts REST API)  Time elapsed: 1.049 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+API POST with invalid type data body(Testing Post Posts REST API)  Time elapsed: 1.038 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <500>.
+
+
+API POST new posts with extra parameter(Testing Post Posts REST API)  Time elapsed: 1.046 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+API POST with less category body(Testing Post Posts REST API)  Time elapsed: 1.041 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+

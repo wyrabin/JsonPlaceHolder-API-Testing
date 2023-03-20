@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Testing POST Todos JsonPlaceHolder API
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 5.236 s <<< FAILURE! - in Testing POST Todos JsonPlaceHolder API
+POST Todos with blank parameter should failed then return 400 response code(Testing POST Todos JsonPlaceHolder API)  Time elapsed: 1.019 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+POST Todos with extra body category should failed then return 400 response code(Testing POST Todos JsonPlaceHolder API)  Time elapsed: 1.031 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+POST Todos with invalid body data type should failed then return 400 response code(Testing POST Todos JsonPlaceHolder API)  Time elapsed: 1.034 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+
+POST Todos with invalid body category should failed then return 400 response code(Testing POST Todos JsonPlaceHolder API)  Time elapsed: 1.034 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <201>.
+
+

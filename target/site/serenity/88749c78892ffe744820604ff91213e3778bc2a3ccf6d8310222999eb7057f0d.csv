@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing GET todos JsonPlaceHolder API","GET todos with modified id out of range should failed then return 404 response code","SUCCESS","2023-01-20T18:56:10.657+07:00[Asia/Bangkok]","0.0","1.07"
+"Testing GET todos JsonPlaceHolder API","Get todos with invalid parameter id as string should failed then return 400 response code","FAILURE","2023-01-20T18:56:11.734+07:00[Asia/Bangkok]","0.0","0.91"
+"Testing GET todos JsonPlaceHolder API","Get todos with invalid id as string should failed then return 404 response code","SUCCESS","2023-01-20T18:56:15.522+07:00[Asia/Bangkok]","0.0","0.94"

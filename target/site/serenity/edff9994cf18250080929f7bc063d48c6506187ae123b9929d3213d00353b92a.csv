@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing GET comments JsonPlaceHolder","GET comments with invalid parameter id","FAILURE","2023-01-20T18:55:33.634+07:00[Asia/Bangkok]","0.0","1.09"
+"Testing GET comments JsonPlaceHolder","GET comments with unregistered parameter id","FAILURE","2023-01-20T18:55:34.728+07:00[Asia/Bangkok]","0.0","1.08"
+"Testing GET comments JsonPlaceHolder","GET comments without parameter","ERROR","2023-01-20T18:55:35.817+07:00[Asia/Bangkok]","0.0","0.98"

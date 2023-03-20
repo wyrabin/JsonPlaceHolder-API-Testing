@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Testing GET todos JsonPlaceHolder API" skipped="0" tests="7" time="7.64" timestamp="2023-01-20 06:56:08"><testcase name="GET todos with modified id should succes then return 200 response code"/><testcase name="GET todos with id 1 and get respon body page with id 1 should succes then return 200 response code"/><testcase name="GET todos with modified id out of range should failed then return 404 response code"/><testcase name="Get todos with invalid parameter id as string should failed then return 400 response code"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1267)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+starter.JsonPlaceHolder.Todos.GetTodosStepDef.shouldReturnStatusCodeBadRequest(GetTodosStepDef.java:75)&#13;
+✽.Should return status code 400 Bad Request(classpath:features/JsonPlaceHolder/Todos/GetTodos.feature:36)&#13;
+</system-err></testcase><testcase name="GET todos without id should success then return 200 response code"/><testcase name="GET todos with modified parameter should succes then return 200 response code"/><testcase name="Get todos with invalid id as string should failed then return 404 response code"/></testsuite>

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing DELETE comments JsonPlaceHolder","DELETE Comments with valid parameter","SUCCESS","2023-01-20T18:55:29.741+07:00[Asia/Bangkok]","0.0","1.08"
+"Testing GET comments JsonPlaceHolder","GET comments with valid parameter id","SUCCESS","2023-01-20T18:55:32.943+07:00[Asia/Bangkok]","0.0","0.69"
+"Testing GET comments JsonPlaceHolder","GET comments without parameter","ERROR","2023-01-20T18:55:35.817+07:00[Asia/Bangkok]","0.0","0.98"
+"Testing GET comments JsonPlaceHolder","GET comments with invalid parameter","SUCCESS","2023-01-20T18:55:36.807+07:00[Asia/Bangkok]","0.0","1.1"
+"Testing POST comments JsonPlaceHolder","POST comments with valid json","SUCCESS","2023-01-20T18:55:37.919+07:00[Asia/Bangkok]","0.0","1.21"
+"Testing PUT comments JsonPlaceHolder","PUT comments with valid json","SUCCESS","2023-01-20T18:55:43.58+07:00[Asia/Bangkok]","0.0","1.12"

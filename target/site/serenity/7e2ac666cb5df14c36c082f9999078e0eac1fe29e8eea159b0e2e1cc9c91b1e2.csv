@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing GET","Get album with invalid parameter","FAILURE","2023-01-20T18:55:17.106+07:00[Asia/Bangkok]","0.0","0.92"

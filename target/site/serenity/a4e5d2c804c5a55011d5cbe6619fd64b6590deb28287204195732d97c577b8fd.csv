@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Create Album","Post create album with invalid json","FAILURE","2023-01-20T18:55:19.137+07:00[Asia/Bangkok]","0.0","1.11"
+"Testing Create Album","Post create album with same body json","FAILURE","2023-01-20T18:55:20.267+07:00[Asia/Bangkok]","0.0","1.14"
+"Testing Create Album","Post create album with blank body json","FAILURE","2023-01-20T18:55:21.414+07:00[Asia/Bangkok]","0.0","1.07"
+"Testing Create Album","Post create album with extra body json","FAILURE","2023-01-20T18:55:22.487+07:00[Asia/Bangkok]","0.0","1.1"
+"Put update albums","Put update album with invalid parameter request","FAILURE","2023-01-20T18:55:25.147+07:00[Asia/Bangkok]","0.0","1.11"
+"Put update albums","Put update album with blank body","FAILURE","2023-01-20T18:55:26.265+07:00[Asia/Bangkok]","0.0","1.06"
+"Put update albums","Put update album with extra body json","FAILURE","2023-01-20T18:55:27.328+07:00[Asia/Bangkok]","0.0","1.07"

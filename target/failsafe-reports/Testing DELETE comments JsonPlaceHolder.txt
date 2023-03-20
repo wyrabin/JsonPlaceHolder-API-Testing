@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Testing DELETE comments JsonPlaceHolder
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.197 s <<< FAILURE! - in Testing DELETE comments JsonPlaceHolder
+DELETE Comments with unregistered parameter id(Testing DELETE comments JsonPlaceHolder)  Time elapsed: 1.064 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+DELETE Comments with invalid parameter id(Testing DELETE comments JsonPlaceHolder)  Time elapsed: 1.047 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Post Posts REST API","API POST new posts with valid parameter","SUCCESS","2023-01-20T18:55:55.04+07:00[Asia/Bangkok]","0.0","1.09"
+"Testing Post Posts REST API","API POST new posts with blank parameter","FAILURE","2023-01-20T18:55:56.13+07:00[Asia/Bangkok]","0.0","1.05"
+"Testing Post Posts REST API","API POST with invalid type data body","FAILURE","2023-01-20T18:55:57.182+07:00[Asia/Bangkok]","0.0","1.03"
+"Testing Post Posts REST API","API POST new posts with extra parameter","FAILURE","2023-01-20T18:55:58.223+07:00[Asia/Bangkok]","0.0","1.04"
+"Testing Post Posts REST API","API POST with less category body","FAILURE","2023-01-20T18:55:59.27+07:00[Asia/Bangkok]","0.0","1.04"

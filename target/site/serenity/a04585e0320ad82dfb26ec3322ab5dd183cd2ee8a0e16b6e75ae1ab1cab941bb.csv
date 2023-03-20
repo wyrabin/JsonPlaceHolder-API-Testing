@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing GET todos JsonPlaceHolder API","GET todos with modified id out of range should failed then return 404 response code","SUCCESS","2023-01-20T18:56:10.657+07:00[Asia/Bangkok]","0.0","1.07"
+"Testing GET todos JsonPlaceHolder API","Get todos with invalid id as string should failed then return 404 response code","SUCCESS","2023-01-20T18:56:15.522+07:00[Asia/Bangkok]","0.0","0.94"
+"Testing PUT Todos JsonPlaceHolder API","Put update user with unregistered id should failed then return 500 response code","SUCCESS","2023-01-20T18:56:28.241+07:00[Asia/Bangkok]","0.0","1.09"
+"Testing PUT Todos JsonPlaceHolder API","Put update user with invalid id as string should failed then return 500 response code","SUCCESS","2023-01-20T18:56:29.334+07:00[Asia/Bangkok]","0.0","0.86"

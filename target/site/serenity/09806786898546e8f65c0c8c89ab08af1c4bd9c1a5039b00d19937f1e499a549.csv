@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing Delete Todos JsonPlaceHolder API","Delete todos with valid id should success then return 200 response code","SUCCESS","2023-01-20T18:56:05.608+07:00[Asia/Bangkok]","0.0","1.05"
